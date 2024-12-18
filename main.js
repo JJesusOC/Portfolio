@@ -106,4 +106,3 @@ projectCards.forEach((card) => {
     gsap.to(card, { scale: 1, duration: 0.3 });
   });
 });
-g
